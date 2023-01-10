@@ -1,0 +1,28 @@
+.tweet-container {
+    width: 90vw;
+    margin: 0 auto;
+    height: fit-content;
+    position: relative;
+    top: 30px;
+}
+
+.buttons-container {
+    width: 10vw;
+    display: flex;
+    justify-content: space-between;
+}
+
+.delete {
+    background-color: red;
+}
+
+.tweet-body {
+ width: 40vw;
+ text-align: left;
+ margin: 10px 0 10px 20px;
+}
+
+.message {
+    width: 60vw;
+    margin: 0 auto;
+} 
